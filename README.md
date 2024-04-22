@@ -1,4 +1,4 @@
-# Video Aula Rust
+# Torto Video Aula Rust
 
 **Referências**
 
@@ -26,7 +26,7 @@ Livros que vamos se basear:
 - repeticões (loop, while, for)
 - Slices (slices de string)
 
-## Owbership
+## Ownership
 
 - Pilhas e Heap
 - Regras de Ownership
